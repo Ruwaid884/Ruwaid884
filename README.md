@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruwaid884
 - 👀 I’m interested in ...coding stuff
-- 🌱 I’m currently learning ...c programming from scratch
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...some projects related to coding stuff
 - 📫 How to reach me ... syedruwaid32@gmail.com is my email 
 
